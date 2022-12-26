@@ -1,0 +1,18 @@
+{
+    "name": "echobot4",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "9df8cdc0-84bc-11ed-a101-417f5f5b599b",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "D:\\大三\\物聯網\\期末and暑期\\LUIS\\echobot4.bot",
+    "overrides": null
+}

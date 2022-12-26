@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "teGQRQNqXHW+CZaDPIbPVfjKo90ieB4oaLXWMNT4fkA=",
+  "Source": "CoreBot4",
+  "BasePath": "_content/CoreBot4",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CoreBot4\\wwwroot",
+      "Source": "CoreBot4",
+      "ContentRoot": "C:\\Users\\m0966\\source\\repos\\CoreBot4\\CoreBot4\\wwwroot\\",
+      "BasePath": "_content/CoreBot4",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\m0966\\source\\repos\\CoreBot4\\CoreBot4\\wwwroot\\default.htm",
+      "SourceId": "CoreBot4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\m0966\\source\\repos\\CoreBot4\\CoreBot4\\wwwroot\\",
+      "BasePath": "_content/CoreBot4",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}

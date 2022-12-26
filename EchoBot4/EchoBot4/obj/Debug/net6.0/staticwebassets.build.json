@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "ydBjKYcIESzJiUPFZNDWfBlgDMJJw0+//AGY1AzcNio=",
+  "Source": "EchoBot4",
+  "BasePath": "_content/EchoBot4",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EchoBot4\\wwwroot",
+      "Source": "EchoBot4",
+      "ContentRoot": "C:\\Users\\m0966\\source\\repos\\EchoBot4\\EchoBot4\\wwwroot\\",
+      "BasePath": "_content/EchoBot4",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\m0966\\source\\repos\\EchoBot4\\EchoBot4\\wwwroot\\default.htm",
+      "SourceId": "EchoBot4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\m0966\\source\\repos\\EchoBot4\\EchoBot4\\wwwroot\\",
+      "BasePath": "_content/EchoBot4",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
